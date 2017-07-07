@@ -1,3 +1,26 @@
 nav a {
     display: block;
 }
+
+.my-pic {
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+}
+
+.my-3rd-pic {
+    display:block;
+    margin: 0 auto;
+    border-radius:100%;
+}
+
+.spray-pic {
+    display:block;
+    margin: 0 auto;
+    border-radius: 100%;
+}
+
+.my-images img{
+    display: block;
+    margin-top: 20px;
+}
