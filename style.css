@@ -2,6 +2,12 @@ nav a {
     display: block;
 }
 
+body{
+background-color: silver;
+
+}
+
+
 .my-pic {
     display: block;
     margin: 0 auto;
