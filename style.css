@@ -30,3 +30,7 @@ transition: all ease 3s;
     display: block;
     margin-top: 20px;
 }
+
+#success {
+    display:none;
+}
