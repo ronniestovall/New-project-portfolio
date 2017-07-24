@@ -2,9 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'navigation',
-  templateUrl: 'dist/html/navigation.html'
+  templateUrl:'dist/html/navigation.html'
 })
 
 export class NavigationComponent {
-    name = 'Angular';
+    name = 'Ronnie';
 }
